@@ -1,2 +1,2 @@
-# port-scanner
-This search for open ports in a host ..... so you will know which ports that are open in your network
+create a virtual environment and install nmap
+pip3 install python-nmap (for linux. I'm not sure if it will work on other os)
